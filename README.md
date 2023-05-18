@@ -1,7 +1,9 @@
 # ZeroMQ
 ## Server Client using ZMQ
+### Summary
+This is a Request/Reply method the most basic pattern client/server model, where client sends a request and server replies to the request.
 
-
+### Instruction
 First of all after run Client, you have to give to the cilent app a json file in the correct format
 client going to validation given file and if that was correct then going to sendthe file to Server using ZMQ
 if you ran server before, Server listening and reading your spcific command in the json file
