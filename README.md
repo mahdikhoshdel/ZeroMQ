@@ -20,7 +20,7 @@ In the end Client will show result to user.
 There is 2 type of command you can use in your json :
 
 
-### 1) OS commands
+### 1) `OS commands`
 like :
 ```json
 {
@@ -37,7 +37,7 @@ like :
 ```
 
 ---
-### 2) Compute commands
+### 2) `Compute commands`
 like:
 ```json
 {
