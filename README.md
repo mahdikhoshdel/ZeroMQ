@@ -1,7 +1,7 @@
 # ZeroMQ
 ## Server Client using ZMQ
 ### Summary
-This is a Request/Reply method the most basic pattern client/server model, where client sends a request and server replies to the request.
+This is a Request/Reply method the most basic pattern `client/server model`, where client sends a request and server replies to the request.
 ---
 
 ### Instruction
